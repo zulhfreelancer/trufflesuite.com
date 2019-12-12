@@ -1,3 +1,5 @@
+xxx
+
 # Truffle Suite website - http://truffleframework.com
 
 This is a [Metalsmith](http://www.metalsmith.io/) project.
@@ -28,10 +30,10 @@ We welcome all contributions, typo corrections, and general feedback.
 
 You can find the markdown source code inside the `public/` subdirectory.
 
-For example: 
+For example:
 
-* For [tutorials](http://truffleframework.com/tutorials) see `public/tutorials`.
+- For [tutorials](http://truffleframework.com/tutorials) see `public/tutorials`.
 
-* For [docs](http://truffleframework.com/docs) see `public/docs`.
+- For [docs](http://truffleframework.com/docs) see `public/docs`.
 
 Commits to master (and PRs accepted) will trigger updates to the live site. Thank you!
